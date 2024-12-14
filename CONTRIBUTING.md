@@ -1,4 +1,4 @@
-# Contributing to Simple Interest Calculator
+[# Contributing to Simple Interest Calculator
 
 Thank you for your interest in contributing to the **Simple Interest Calculator** project! We value your time and effort to make this project better.
 
@@ -92,3 +92,4 @@ If you find any bugs, inconsistencies, or areas for improvement, please report t
 If you need assistance at any point, feel free to open an issue with the **help-wanted** tag. We'll get back to you as soon as possible.
 
 Thank you for your contributions!
+](https://github.com/Bannu1105/simple-interest-calculator)
